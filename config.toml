@@ -10,10 +10,10 @@ preserveTaxonomyNames = true
 mainpagetitle = "TURBINES CONSULTING"
 
 # The subtitle to display under the title in the home page
-mainpagesubtitle = "Welcome to the early 90s!"
+mainpagesubtitle = "Modern solutions for modern problems"
 
 # The description of your website. It will be displayed in the home page
-mainpagedesc = "We are a software consultancy specializing in consumer applications and distributed systems."
+mainpagedesc = "We are a software consultancy specializing in architecture, implementation and expansion of modern software systems."
 
 # The name to display in the copyright section in the footer
 copyrightname = "Turbines Consulting, LLC"
