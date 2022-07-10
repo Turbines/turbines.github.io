@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bedd766e-bc7c-4f73-83ef-c88ae7df5437" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/clients/2u.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/clients/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/clients/somm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo.386" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +44,7 @@
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/mvid/Development/websites/turbines/content/clients",
+    "last_opened_file_path": "/Users/mvid/Development/websites/turbines",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +54,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/content/clients" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
